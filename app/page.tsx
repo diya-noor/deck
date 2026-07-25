@@ -48,6 +48,13 @@ export default function Home() {
       </section>
       <section className="slide slide--mission" aria-label="Our Mission">
         <Image className="slide__image mission__background" src="/mission.png" alt="Our Mission — Elementz Live presentation" fill sizes="100vw" />
+        <div className="mission-mask mission-mask--title" aria-hidden="true" />
+        <div className="mission-mask mission-mask--question" aria-hidden="true" />
+        <div className="mission-mask mission-mask--text-one" aria-hidden="true" />
+        <div className="mission-mask mission-mask--text-two" aria-hidden="true" />
+        <div className="mission-mask mission-mask--text-three" aria-hidden="true" />
+        <div className="mission-mask mission-mask--text-four" aria-hidden="true" />
+        <div className="mission-mask mission-mask--text-five" aria-hidden="true" />
         <div className="mission-reveal mission-reveal--title" aria-hidden="true"><Image className="slide__image" src="/mission.png" alt="" fill sizes="100vw" /></div>
         <div className="mission-reveal mission-reveal--question" aria-hidden="true"><Image className="slide__image" src="/mission.png" alt="" fill sizes="100vw" /></div>
         <div className="mission-reveal mission-reveal--text-one" aria-hidden="true"><Image className="slide__image" src="/mission.png" alt="" fill sizes="100vw" /></div>
