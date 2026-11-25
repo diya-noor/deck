@@ -356,7 +356,7 @@ export default function Home() {
         <div className="partners-reveal partner-tile partner-tile-five" aria-hidden="true"><Image className="slide__image" src="/partners.png" alt="" fill sizes="100vw" /></div>
         <div className="partners-reveal partner-tile partner-tile-six" aria-hidden="true"><Image className="slide__image" src="/partners.png" alt="" fill sizes="100vw" /></div>
         <div className="partners-reveal partners-hero" aria-hidden="true"><Image className="slide__image" src="/partners.png" alt="" fill sizes="100vw" /></div>
-      </section>      <section className="slide slide--new-wave" aria-label="The Element Live New Wave — Gen Z is rewriting entertainment">
+      </section>      <section className="slide slide--new-wave" aria-label="The Element Live New Wave â€” Gen Z is rewriting entertainment">
         <Image className="slide__image new-wave-bg" src="/element-live-new-wave.png" alt="The Element Live New Wave showing four Gen Z entertainment trends: short-form impact, AI co-creation, meme-driven identity, and community-led hype" fill sizes="100vw" />
         <div className="new-wave-stage" aria-hidden="true" />
         <div className="new-wave-title-wrap">
